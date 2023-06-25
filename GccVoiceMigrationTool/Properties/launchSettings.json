@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "-s \"C:\\Source\\jp\"\r\n-c \"C:\\Source\\br-kr-us\"\r\n-d \"C:\\Destination\\jp\""
+    }
+  }
+}
